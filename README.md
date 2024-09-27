@@ -8,5 +8,6 @@ Reposotirio para armazenar resumos sobre Git e Github do curso versorionamento d
 
 - Menu
 - Indice
+- Forum
 
 
